@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Martin Dutang 👋
 
-<!--
-**martindtg/martindtg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bachelor of Global Engineering** @ **CentraleSupélec** *(Paris-Saclay)* & **McGill University** *(Montreal)*  
+🇺🇸🇫🇷 U.S. & French Dual Citizen · Autonomous Robotics & Quantitative Modeling
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+- 🤖 **Club Tech CentraleSupélec (Eurobot):** Multi-board autonomous robotics stack in **ROS 2, C/C++, and Python** across `STM32`, `ESP32 (PlatformIO)`, and `Raspberry Pi` (wheel odometry, localization & decision architecture).
+- 📈 **CentraleSupélec Bachelor Finance Club (Quant & Data):** Historical strategy backtesting, Markov-chain regime modeling, and Monte Carlo risk simulations in Python.
+- 🚁 **Autonomous UAVs:** Custom `Pixhawk 2.4.8 / PX4` quadcopter builder & Imperial College Innovation Challenge Winner (rural medical-delivery drone concept).
+
+---
+
+### Featured Repositories
+- [**`px4-quadcopter-pid-control`**](https://github.com/martindtg/px4-quadcopter-pid-control) — Analytical Laplace pole-placement, 500 Hz `C++17` RK4 attitude control simulator with wind-gust anti-windup, and telemetry analysis across 9 outdoor PX4 flights.
+- [**`biometric-ode-recovery-modeling`**](https://github.com/martindtg/biometric-ode-recovery-modeling) — Non-autonomous differential equations, Euler vs. RK4 numerical truncation-error scaling, and nonlinear least-squares modeling of post-exercise cardiac recovery.
+
+📫 **Reach me:** [martin.dutang@gmail.com](mailto:martin.dutang@gmail.com) · [LinkedIn](https://www.linkedin.com/in/martin-dutang-8470a936b/)
