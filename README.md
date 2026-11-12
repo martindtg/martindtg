@@ -1,7 +1,7 @@
 # Hi, I'm Martin Dutang 👋
 
 **Bachelor of Global Engineering** @ **CentraleSupélec** *(Paris-Saclay)* & **McGill University** *(Montreal)*  
-🇺🇸🇫🇷 U.S. & French Dual Citizen · Autonomous Robotics & Quantitative Modeling
+U.S. & French Dual Citizen · Autonomous Robotics & Quantitative Modeling
 
 ---
 
