@@ -13,6 +13,7 @@ U.S. & French Dual Citizen · Autonomous Robotics & Quantitative Modeling
 ---
 
 ### Featured Repositories
+- [**pami-esp32-motion-control**](https://github.com/martindtg/pami-esp32-motion-control) — (WIP) Embedded C firmware (ESP-IDF + FreeRTOS) using the ESP32 RMT hardware peripheral (1 MHz) to drive differential stepper motors for Eurobot PAMIs.
 - [**`px4-quadcopter-pid-control`**](https://github.com/martindtg/px4-quadcopter-pid-control) — Analytical Laplace pole-placement, 500 Hz `C++17` RK4 attitude control simulator with wind-gust anti-windup, and telemetry analysis across 9 outdoor PX4 flights.
 - [**`biometric-ode-recovery-modeling`**](https://github.com/martindtg/biometric-ode-recovery-modeling) — Non-autonomous differential equations, Euler vs. RK4 numerical truncation-error scaling, and nonlinear least-squares modeling of post-exercise cardiac recovery.
 
