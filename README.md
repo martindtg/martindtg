@@ -1,13 +1,12 @@
 # Hi, I'm Martin Dutang 
 
 **Bachelor of Global Engineering** @ **CentraleSupélec** *(Paris-Saclay)* & **McGill University** *(Montreal)*  
-U.S. & French Dual Citizen · Autonomous Robotics & Quantitative Modeling
+U.S. & French Dual Citizen · Autonomous Robotics 
 
 ---
 
 ### What I'm Working On
  **Club Tech CentraleSupélec (Eurobot):** Multi-board autonomous robotics stack in **ROS 2, C/C++, and Python** across `STM32`, `ESP32 (PlatformIO)`, and `Raspberry Pi` (wheel odometry, localization & decision architecture).
- **CentraleSupélec Bachelor Finance Club (Quant & Data):** Historical strategy backtesting, Markov-chain regime modeling, and Monte Carlo risk simulations in Python.
  **Autonomous UAVs:** Custom `Pixhawk 2.4.8 / PX4` quadcopter builder & Imperial College Innovation Challenge Winner (rural medical-delivery drone concept).
 
 ---
