@@ -7,6 +7,7 @@ U.S. & French Dual Citizen · Autonomous Robotics
 
 ### What I'm Working On
  **Club Tech CentraleSupélec (Eurobot):** Multi-board autonomous robotics stack in **ROS 2, C/C++, and Python** across `STM32`, `ESP32 (PlatformIO)`, and `Raspberry Pi` (wheel odometry, localization & decision architecture).
+ 
  **Autonomous UAVs:** Custom `Pixhawk 2.4.8 / PX4` quadcopter builder & Imperial College Innovation Challenge Winner (rural medical-delivery drone concept).
 
 ---
